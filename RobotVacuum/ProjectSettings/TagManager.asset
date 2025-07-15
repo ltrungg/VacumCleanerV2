@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Garbage
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - obstacleLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2069335899
+    locked: 0
+  - name: Garbage
+    uniqueID: 3479102427
+    locked: 0
+  - name: Player
+    uniqueID: 418507783
+    locked: 0
+  - name: Wall
+    uniqueID: 2649927189
+    locked: 0
+  - name: Furniture
+    uniqueID: 305651703
+    locked: 0
+  - name: UI
+    uniqueID: 3341927841
+    locked: 0
+  m_RenderingLayers:
+  - Default
